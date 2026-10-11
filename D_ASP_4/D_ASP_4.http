@@ -1,0 +1,6 @@
+@D_ASP_4_HostAddress = http://localhost:5123
+
+GET {{D_ASP_4_HostAddress}}/api/orders
+Accept: application/json
+
+###
